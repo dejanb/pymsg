@@ -1,4 +1,5 @@
-dejanb@dejanb-desktop:/workspace/perftest/pyactivemq-0.1.0/src/perftest$ python test_send.py 
+producer
+========
 connecting to:  tcp://localhost:61616?wireFormat=openwire
 producer sent  40149 messages in 10.1492230892 secs ; rate=3955.86929631 msgs/sec
 producer sent  73821 messages in 20.218708992 secs ; rate=3651.1233249 msgs/sec
@@ -102,8 +103,8 @@ producer sent  3140230 messages in 987.406879187 secs ; rate=3180.2796458 msgs/s
 
 
 
-
-dejanb@dejanb-desktop:~/workspace/perftest/pyactivemq-0.1.0/src/perftest$ python test_receive_async.py 
+consumer
+========
 connecting to:  tcp://localhost:61616?wireFormat=openwire
 consumer received  30262 messages in 10.246587038 secs ; rate=2953.37363433 msgs/sec
 consumer received  63626 messages in 20.2545850277 secs ; rate=3141.31343165 msgs/sec

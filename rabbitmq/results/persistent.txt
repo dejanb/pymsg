@@ -163,9 +163,5 @@ consumer received  611524 messages in 781.012401104 secs ; rate=782.988847726 ms
 consumer received  611524 messages in 791.020530224 secs ; rate=773.082336848 msgs/sec
 consumer received  611524 messages in 801.028887033 secs ; rate=763.423154769 msgs/sec
 consumer received  611524 messages in 811.039736032 secs ; rate=754.000048125 msgs/sec
-^CTraceback (most recent call last):
-  File "test_receive_async.py", line 16, in <module>
-    time.sleep(10)
-KeyboardInterrupt
 
 
