@@ -1,0 +1,217 @@
+dejanb@dejanb-desktop:/workspace/perftest/pyactivemq-0.1.0/src/perftest$ python test_send.py 
+connecting to:  tcp://localhost:61616?wireFormat=openwire
+producer sent  10428 messages in 10.9203388691 secs ; rate=954.91542204 msgs/sec
+producer sent  24546 messages in 21.2275838852 secs ; rate=1156.32566253 msgs/sec
+producer sent  39800 messages in 32.4597699642 secs ; rate=1226.13315017 msgs/sec
+producer sent  53196 messages in 42.4713158607 secs ; rate=1252.51593745 msgs/sec
+producer sent  66264 messages in 52.5591268539 secs ; rate=1260.75153768 msgs/sec
+producer sent  79973 messages in 62.9975309372 secs ; rate=1269.46245052 msgs/sec
+producer sent  93873 messages in 74.2899589539 secs ; rate=1263.60279804 msgs/sec
+producer sent  107295 messages in 84.390734911 secs ; rate=1271.40734244 msgs/sec
+producer sent  123806 messages in 96.5531439781 secs ; rate=1282.25757235 msgs/sec
+producer sent  137995 messages in 106.672449827 secs ; rate=1293.63298793 msgs/sec
+producer sent  153679 messages in 118.325399876 secs ; rate=1298.78284934 msgs/sec
+producer sent  167403 messages in 128.482567787 secs ; rate=1302.92383537 msgs/sec
+producer sent  181571 messages in 138.960438967 secs ; rate=1306.6380716 msgs/sec
+producer sent  195982 messages in 149.744120836 secs ; rate=1308.77926229 msgs/sec
+producer sent  210373 messages in 160.23466897 secs ; rate=1312.90563617 msgs/sec
+producer sent  225476 messages in 171.221886873 secs ; rate=1316.86435722 msgs/sec
+producer sent  239331 messages in 181.238384008 secs ; rate=1320.53152708 msgs/sec
+producer sent  256590 messages in 193.985707998 secs ; rate=1322.72631137 msgs/sec
+producer sent  270214 messages in 204.046364784 secs ; rate=1324.27745177 msgs/sec
+producer sent  286685 messages in 216.216778994 secs ; rate=1325.91467385 msgs/sec
+producer sent  302161 messages in 227.481932878 secs ; rate=1328.28570681 msgs/sec
+producer sent  315608 messages in 237.493074894 secs ; rate=1328.91453842 msgs/sec
+producer sent  330923 messages in 249.458789825 secs ; rate=1326.5637993 msgs/sec
+producer sent  343556 messages in 259.641149998 secs ; rate=1323.19549502 msgs/sec
+producer sent  356028 messages in 269.974828959 secs ; rate=1318.74516366 msgs/sec
+producer sent  367737 messages in 280.003249884 secs ; rate=1313.33118509 msgs/sec
+producer sent  380951 messages in 290.707039833 secs ; rate=1310.42922187 msgs/sec
+producer sent  393635 messages in 301.283000946 secs ; rate=1306.52907321 msgs/sec
+producer sent  407763 messages in 311.731898785 secs ; rate=1308.05670382 msgs/sec
+producer sent  420927 messages in 321.740225792 secs ; rate=1308.28216759 msgs/sec
+producer sent  434237 messages in 331.775385857 secs ; rate=1308.82825704 msgs/sec
+producer sent  450971 messages in 344.164911985 secs ; rate=1310.33404131 msgs/sec
+producer sent  463781 messages in 355.326225996 secs ; rate=1305.22591936 msgs/sec
+producer sent  477005 messages in 366.315228939 secs ; rate=1302.17081441 msgs/sec
+producer sent  492365 messages in 377.89445591 secs ; rate=1302.91670677 msgs/sec
+producer sent  508130 messages in 389.728747845 secs ; rate=1303.80425568 msgs/sec
+producer sent  522086 messages in 401.007861853 secs ; rate=1301.93457452 msgs/sec
+producer sent  538719 messages in 413.140340805 secs ; rate=1303.96126157 msgs/sec
+producer sent  550504 messages in 423.445151806 secs ; rate=1300.05975426 msgs/sec
+producer sent  563127 messages in 433.659925938 secs ; rate=1298.54516481 msgs/sec
+producer sent  575150 messages in 443.672689915 secs ; rate=1296.33852404 msgs/sec
+producer sent  593237 messages in 459.131145954 secs ; rate=1292.0861615 msgs/sec
+producer sent  606037 messages in 469.145206928 secs ; rate=1291.78981486 msgs/sec
+producer sent  620620 messages in 480.087647915 secs ; rate=1292.72228247 msgs/sec
+producer sent  633672 messages in 490.813771963 secs ; rate=1291.06401694 msgs/sec
+producer sent  645174 messages in 501.21288085 secs ; rate=1287.22549769 msgs/sec
+producer sent  656788 messages in 511.22623682 secs ; rate=1284.73061963 msgs/sec
+producer sent  670658 messages in 521.926448822 secs ; rate=1284.96649578 msgs/sec
+producer sent  686857 messages in 534.20378685 secs ; rate=1285.75838829 msgs/sec
+producer sent  700561 messages in 544.318730831 secs ; rate=1287.04187513 msgs/sec
+producer sent  715583 messages in 555.279223919 secs ; rate=1288.69039066 msgs/sec
+producer sent  730781 messages in 566.232151985 secs ; rate=1290.6031518 msgs/sec
+producer sent  745086 messages in 576.659558773 secs ; rate=1292.07257326 msgs/sec
+producer sent  759002 messages in 586.672391891 secs ; rate=1293.7407836 msgs/sec
+producer sent  773833 messages in 597.782891989 secs ; rate=1294.50509603 msgs/sec
+producer sent  787244 messages in 607.790882826 secs ; rate=1295.25470395 msgs/sec
+producer sent  800740 messages in 617.813641787 secs ; rate=1296.08662846 msgs/sec
+producer sent  815313 messages in 628.726927996 secs ; rate=1296.76806209 msgs/sec
+producer sent  829320 messages in 639.25741291 secs ; rate=1297.31776785 msgs/sec
+producer sent  841585 messages in 649.357195854 secs ; rate=1296.02783395 msgs/sec
+producer sent  856834 messages in 661.835222006 secs ; rate=1294.63342462 msgs/sec
+producer sent  870225 messages in 672.173640966 secs ; rate=1294.64315017 msgs/sec
+producer sent  883878 messages in 682.216434002 secs ; rate=1295.59763727 msgs/sec
+producer sent  897441 messages in 692.225111008 secs ; rate=1296.45831353 msgs/sec
+producer sent  910781 messages in 702.259626865 secs ; rate=1296.92917713 msgs/sec
+producer sent  924869 messages in 712.424616814 secs ; rate=1298.1991051 msgs/sec
+producer sent  938386 messages in 722.480009794 secs ; rate=1298.84008869 msgs/sec
+producer sent  955766 messages in 735.422098875 secs ; rate=1299.6155561 msgs/sec
+producer sent  968970 messages in 745.434198856 secs ; rate=1299.8732839 msgs/sec
+producer sent  982452 messages in 755.443573952 secs ; rate=1300.49686552 msgs/sec
+producer sent  994727 messages in 765.625785828 secs ; rate=1299.23393179 msgs/sec
+producer sent  1008168 messages in 775.637955904 secs ; rate=1299.79198713 msgs/sec
+producer sent  1025059 messages in 788.009850979 secs ; rate=1300.82003255 msgs/sec
+producer sent  1038515 messages in 798.021211863 secs ; rate=1301.36265122 msgs/sec
+producer sent  1052588 messages in 808.031546831 secs ; rate=1302.65706101 msgs/sec
+producer sent  1066181 messages in 818.038826942 secs ; rate=1303.33789166 msgs/sec
+producer sent  1079753 messages in 828.133832932 secs ; rate=1303.83877226 msgs/sec
+producer sent  1094785 messages in 839.093454838 secs ; rate=1304.72356051 msgs/sec
+producer sent  1108939 messages in 849.140320778 secs ; rate=1305.95494392 msgs/sec
+producer sent  1126107 messages in 862.119342804 secs ; rate=1306.20778828 msgs/sec
+producer sent  1144164 messages in 875.778270006 secs ; rate=1306.45397264 msgs/sec
+producer sent  1158312 messages in 886.104866982 secs ; rate=1307.19516748 msgs/sec
+producer sent  1172128 messages in 896.422481775 secs ; rate=1307.56202999 msgs/sec
+producer sent  1185852 messages in 906.433893919 secs ; rate=1308.2608759 msgs/sec
+producer sent  1200520 messages in 917.362404823 secs ; rate=1308.66492205 msgs/sec
+producer sent  1213926 messages in 927.402015924 secs ; rate=1308.95337637 msgs/sec
+producer sent  1227706 messages in 937.744236946 secs ; rate=1309.21199153 msgs/sec
+producer sent  1244389 messages in 949.705619812 secs ; rate=1310.28918229 msgs/sec
+producer sent  1258058 messages in 959.717519999 secs ; rate=1310.86280472 msgs/sec
+producer sent  1271398 messages in 969.731542826 secs ; rate=1311.08244277 msgs/sec
+producer sent  1283966 messages in 980.152725935 secs ; rate=1309.96523912 msgs/sec
+producer sent  1299442 messages in 991.578205824 secs ; rate=1310.47858088 msgs/sec
+
+
+ejanb@dejanb-desktop:/workspace/perftest/pyactivemq-0.1.0/src/perftest$ python test_receive_async.py 
+connecting to:  tcp://localhost:61616?wireFormat=openwire
+consumer received  11151 messages in 10.1393280029 secs ; rate=1099.77702633 msgs/sec
+consumer received  24940 messages in 20.1473190784 secs ; rate=1237.88181956 msgs/sec
+consumer received  38483 messages in 30.1553161144 secs ; rate=1276.15972766 msgs/sec
+consumer received  52029 messages in 40.1633610725 secs ; rate=1295.43441113 msgs/sec
+consumer received  64837 messages in 50.1714980602 secs ; rate=1292.30743563 msgs/sec
+consumer received  78088 messages in 60.1793210506 secs ; rate=1297.5885842 msgs/sec
+consumer received  90384 messages in 70.1873350143 secs ; rate=1287.7536949 msgs/sec
+consumer received  103482 messages in 80.1953110695 secs ; rate=1290.37469423 msgs/sec
+consumer received  117061 messages in 90.2033150196 secs ; rate=1297.74609696 msgs/sec
+consumer received  130964 messages in 100.211462975 secs ; rate=1306.87644021 msgs/sec
+consumer received  144562 messages in 110.219318151 secs ; rate=1311.5849601 msgs/sec
+consumer received  158078 messages in 120.229424 secs ; rate=1314.80293876 msgs/sec
+consumer received  171655 messages in 130.239320993 secs ; rate=1317.99673624 msgs/sec
+consumer received  185102 messages in 140.247322083 secs ; rate=1319.8255571 msgs/sec
+consumer received  198454 messages in 150.255366087 secs ; rate=1320.7781204 msgs/sec
+consumer received  212320 messages in 160.263509989 secs ; rate=1324.81810747 msgs/sec
+consumer received  226081 messages in 170.271337032 secs ; rate=1327.76898297 msgs/sec
+consumer received  239804 messages in 180.279411077 secs ; rate=1330.1796282 msgs/sec
+consumer received  253455 messages in 190.287485123 secs ; rate=1331.95832525 msgs/sec
+consumer received  266775 messages in 200.295320034 secs ; rate=1331.90830397 msgs/sec
+consumer received  280421 messages in 210.303378105 secs ; rate=1333.41177173 msgs/sec
+consumer received  294348 messages in 220.31131506 secs ; rate=1336.05484548 msgs/sec
+consumer received  307825 messages in 230.32143116 secs ; rate=1336.5017682 msgs/sec
+consumer received  320961 messages in 240.331315041 secs ; rate=1335.4938783 msgs/sec
+consumer received  334091 messages in 250.339318037 secs ; rate=1334.55264886 msgs/sec
+consumer received  346159 messages in 260.344351053 secs ; rate=1329.61978472 msgs/sec
+consumer received  357939 messages in 270.351690054 secs ; rate=1323.97544816 msgs/sec
+consumer received  369833 messages in 280.359333038 secs ; rate=1319.13924888 msgs/sec
+consumer received  382140 messages in 290.367552042 secs ; rate=1316.05614096 msgs/sec
+consumer received  394209 messages in 300.375308037 secs ; rate=1312.38816724 msgs/sec
+consumer received  407789 messages in 310.383343935 secs ; rate=1313.82372143 msgs/sec
+consumer received  420958 messages in 320.391317129 secs ; rate=1313.88704217 msgs/sec
+consumer received  434252 messages in 330.399317026 secs ; rate=1314.32475075 msgs/sec
+consumer received  447641 messages in 340.407310963 secs ; rate=1315.01582247 msgs/sec
+consumer received  460099 messages in 350.416630983 secs ; rate=1313.00560338 msgs/sec
+consumer received  470942 messages in 360.42335701 secs ; rate=1306.63562957 msgs/sec
+consumer received  484327 messages in 370.431821108 secs ; rate=1307.46596918 msgs/sec
+consumer received  497557 messages in 380.441628933 secs ; rate=1307.84057832 msgs/sec
+consumer received  510372 messages in 390.447819948 secs ; rate=1307.14521615 msgs/sec
+consumer received  523181 messages in 400.455806971 secs ; rate=1306.46376178 msgs/sec
+consumer received  536877 messages in 410.466104031 secs ; rate=1307.96914709 msgs/sec
+consumer received  549070 messages in 420.475926161 secs ; rate=1305.82981293 msgs/sec
+consumer received  561157 messages in 430.483817101 secs ; rate=1303.54958237 msgs/sec
+consumer received  572975 messages in 440.492152929 secs ; rate=1300.76096972 msgs/sec
+consumer received  584113 messages in 450.499952078 secs ; rate=1296.58837322 msgs/sec
+consumer received  596654 messages in 460.507827044 secs ; rate=1295.64355905 msgs/sec
+consumer received  609598 messages in 470.515834093 secs ; rate=1295.59508061 msgs/sec
+consumer received  623034 messages in 480.523864985 secs ; rate=1296.57243979 msgs/sec
+consumer received  635161 messages in 490.532573938 secs ; rate=1294.83959628 msgs/sec
+consumer received  645931 messages in 500.539824963 secs ; rate=1290.46874552 msgs/sec
+consumer received  657666 messages in 510.547810078 secs ; rate=1288.15751829 msgs/sec
+consumer received  670673 messages in 520.555835962 secs ; rate=1288.37860162 msgs/sec
+consumer received  683898 messages in 530.56382513 secs ; rate=1289.00231717 msgs/sec
+consumer received  697333 messages in 540.571875095 secs ; rate=1289.99127059 msgs/sec
+consumer received  710844 messages in 550.579825163 secs ; rate=1291.08254155 msgs/sec
+consumer received  724799 messages in 560.587837934 secs ; rate=1292.92672968 msgs/sec
+consumer received  738811 messages in 570.595807076 secs ; rate=1294.80621981 msgs/sec
+consumer received  752206 messages in 580.603820086 secs ; rate=1295.558131 msgs/sec
+consumer received  766047 messages in 590.611819029 secs ; rate=1297.03973967 msgs/sec
+consumer received  779495 messages in 600.619811058 secs ; rate=1297.81766377 msgs/sec
+consumer received  792853 messages in 610.627822161 secs ; rate=1298.42265817 msgs/sec
+consumer received  806361 messages in 620.635807037 secs ; rate=1299.24988352 msgs/sec
+consumer received  819558 messages in 630.64380908 secs ; rate=1299.55767138 msgs/sec
+consumer received  832857 messages in 640.651834011 secs ; rate=1300.01500938 msgs/sec
+consumer received  844696 messages in 650.659806967 secs ; rate=1298.21450619 msgs/sec
+consumer received  857102 messages in 660.667850971 secs ; rate=1297.32663507 msgs/sec
+consumer received  870140 messages in 670.675946951 secs ; rate=1297.40749457 msgs/sec
+consumer received  883731 messages in 680.684098959 secs ; rate=1298.29828749 msgs/sec
+consumer received  897311 messages in 690.691825151 secs ; rate=1299.14814006 msgs/sec
+consumer received  910597 messages in 700.699975014 secs ; rate=1299.55335018 msgs/sec
+consumer received  924478 messages in 710.707844973 secs ; rate=1300.78485349 msgs/sec
+consumer received  937931 messages in 720.715821981 secs ; rate=1301.38810804 msgs/sec
+consumer received  951386 messages in 730.723813057 secs ; rate=1301.9775502 msgs/sec
+consumer received  964567 messages in 740.731853962 secs ; rate=1302.18107246 msgs/sec
+consumer received  977817 messages in 750.739814997 secs ; rate=1302.47121635 msgs/sec
+consumer received  990619 messages in 760.747825146 secs ; rate=1302.16474797 msgs/sec
+consumer received  1003245 messages in 770.755823135 secs ; rate=1301.63791163 msgs/sec
+consumer received  1017056 messages in 780.763818026 secs ; rate=1302.64233116 msgs/sec
+consumer received  1030774 messages in 790.772508144 secs ; rate=1303.50257423 msgs/sec
+consumer received  1044058 messages in 800.779819012 secs ; rate=1303.80158842 msgs/sec
+consumer received  1057973 messages in 810.787917137 secs ; rate=1304.87021037 msgs/sec
+consumer received  1071903 messages in 820.795840025 secs ; rate=1305.93132632 msgs/sec
+consumer received  1085098 messages in 830.803982019 secs ; rate=1306.08184781 msgs/sec
+consumer received  1099131 messages in 840.81182003 secs ; rate=1307.22591407 msgs/sec
+consumer received  1112988 messages in 850.819815159 secs ; rate=1308.13596507 msgs/sec
+consumer received  1126259 messages in 860.827810049 secs ; rate=1308.34411581 msgs/sec
+consumer received  1139686 messages in 870.835819006 secs ; rate=1308.72659935 msgs/sec
+consumer received  1153124 messages in 880.843837976 secs ; rate=1309.1128646 msgs/sec
+consumer received  1166519 messages in 890.851926088 secs ; rate=1309.44208104 msgs/sec
+consumer received  1179903 messages in 900.859807968 secs ; rate=1309.75207192 msgs/sec
+consumer received  1193512 messages in 910.868122101 secs ; rate=1310.30164635 msgs/sec
+consumer received  1207019 messages in 920.875801086 secs ; rate=1310.72941495 msgs/sec
+consumer received  1220411 messages in 930.883819103 secs ; rate=1311.02396986 msgs/sec
+consumer received  1234083 messages in 940.89182806 secs ; rate=1311.60986119 msgs/sec
+consumer received  1247978 messages in 950.899825096 secs ; rate=1312.41795094 msgs/sec
+consumer received  1261474 messages in 960.907814026 secs ; rate=1312.79398667 msgs/sec
+consumer received  1274664 messages in 970.915811062 secs ; rate=1312.8470929 msgs/sec
+consumer received  1286930 messages in 980.923835039 secs ; rate=1311.95711026 msgs/sec
+consumer received  1300271 messages in 990.931822062 secs ; rate=1312.16999096 msgs/sec
+dejanb@dejanb-desktop:/workspace/perftest/pyactivemq-0.1.0/src/perftest$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
